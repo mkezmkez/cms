@@ -1,0 +1,15 @@
+.navvbar {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, 1fr);
+    grid-template-rows: 1fr;
+    background: black;
+}
+
+.nav-btn {
+    background-color: rebeccapurple;
+}
+
+.main-bg {
+    background-image: url("images/party.jpg") !important;
+    background-color: #cccccc;  
+}
